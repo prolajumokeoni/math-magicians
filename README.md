@@ -1,6 +1,5 @@
 # Math-magicians
 Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
-
 - Make simple calculations.
 - Read a random math-related quote.
 By building this application, I will learn how to use React.
@@ -18,7 +17,7 @@ To get a local copy up and running follow these simple example steps:
 - [Copy this link](https://github.com/prolajumokeoni/math-magicians)
 - Open your terminal or command line
 - Run `git clone` and Paste the link
-- After the clone, type in the command `cd leaderboard` to access the directory on the terminal
+- After the clone, type in the command `cd math-magicians` to access the directory on the terminal
 - Run `npm i` to install
 - - Run `npm start` and it will automatically load in your browser
 
