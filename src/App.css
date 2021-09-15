@@ -1,3 +1,37 @@
 .app {
-  display: flex;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.appCalc {
+  width: 45%;
+  margin: 40px auto;
+}
+
+.screenInput {
+  background-color: #858693;
+  text-align: end;
+  color: #fff;
+  padding: 20px;
+  width: 300px;
+  font-size: 24px;
+}
+
+input {
+  width: 85px;
+  height: 50px;
+  background-color: #e0e0e0;
+  border: 1px solid rgb(161, 161, 161);
+}
+
+.btnBox {
+  width: 400px;
+}
+
+.orange {
+  background-color: #F5913E;
+}
+
+.zero {
+  width: 170px;
 }
