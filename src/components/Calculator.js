@@ -42,7 +42,7 @@ class Calculator extends Component {
             type="button"
             className="orange"
             onClick={this.manageClicks}
-            value="X"
+            value="x"
           />
         </div>
         <div className="btnBox">
