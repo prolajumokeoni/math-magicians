@@ -5,10 +5,10 @@ Math magicians is a website for all fans of mathematics. It is a Single Page App
 By building this application, I will learn how to use React.
 
 ## Built With
+- React
+- Javascript
 - Html5
 - Css3
-- Javascript
-- React
 
 ## Getting Started
 
@@ -26,19 +26,15 @@ To get a local copy up and running follow these simple example steps:
 
 In the project directory, you can run:
 
-### `npm start`
+- `npm start`
+- `npm test`
+- `npm run build`
 
-### `npm test`
+## 👩🏿‍🏫 **Oni Olajumuke Priscilla**
 
-### `npm run build`
-
-### `npm run build` fails to minify
-
-👤 **Oni Olajumuke Priscilla**
-
-- [@githubhandle](https://github.com/prolajumokeoni)
-- [@twitterhandle](https://twitter.com/prolajumokeoni)
-- [@LinkedIn](https://www.linkedin.com/in/olajumoke-priscilla-oni-44a48b162/)
+- Github [@githubhandle](https://github.com/prolajumokeoni)
+- Twitter [@twitterhandle](https://twitter.com/prolajumokeoni)
+- LinkedIn [@LinkedIn](https://www.linkedin.com/in/olajumoke-priscilla-oni-44a48b162/)
 
 ## 🤝 Contributing
 
