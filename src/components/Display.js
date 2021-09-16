@@ -1,24 +1,12 @@
-import React, { Component } from 'react';
 import propTypes from 'prop-types';
 
-class Display extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {};
-  }
-
-  render() {
-    const { total, operation, next } = this.props;
-    return (
-      <div>
-        {total}
-        {operation}
-        {next}
-      </div>
-    );
-  }
-}
-
+const Display = ({ total, operation, next }) => (
+  <div>
+    {total}
+    {operation}
+    {next}
+  </div>
+);
 Display.propTypes = {
   total: propTypes.number,
   operation: propTypes.string,
@@ -29,4 +17,7 @@ Display.defaultProps = {
   operation: '',
   next: '',
 };
+
 export default Display;
+
+
